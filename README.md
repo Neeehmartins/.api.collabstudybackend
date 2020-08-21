@@ -24,8 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <h1>💻 Projeto </h1>
 Aplicação criada na NextLevelWeek 2.0 da Rocketseat.  Ela tem o objetivo de conectar pessoas que queiram dar aulas a pessoas que queiram aprender! 
-
-Para executar o Back-end da aplicação vá até a pasta server e execute o comando<b>Yarn install</b> e depois Yarn start.
+Para executar o Back-end da aplicação vá até a pasta server e execute o comando <b> Yarn install</b> e depois Yarn start.
 
 <h1>🔖 Layout</h1>
 
